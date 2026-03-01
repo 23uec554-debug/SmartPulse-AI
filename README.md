@@ -70,7 +70,7 @@ Enables sustainable IoT operation
 ##  Performance Visualizations
 
 ### AoI vs Fixed Rate
-*(add image in results/)*
+*(add image in results/AoI vs Fixed-rate.png)*
 
 ### AoI vs Threshold
 *(add image in results/)*
