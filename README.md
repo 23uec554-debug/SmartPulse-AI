@@ -43,3 +43,4 @@ The RL agent learns when to transmit based on system state, enabling smart energ
 
 
 ##  System Workflow
+Sensor → Edge AI Decision → Transmission → Server Monitoring
