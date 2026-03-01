@@ -68,18 +68,18 @@ Enables sustainable IoT operation
 
 
 ##  Performance Visualizations
-
 ### AoI vs Fixed Rate
-*(add image in results/AoI vs Fixed-rate.png)*
+![AoI Fixed](results/aoi_vs_fixed-rate.png)
 
 ### AoI vs Threshold
-*(add image in results/)*
+![AoI Threshold](results/aoi_vs_threshold.png)
 
 ### Energy vs Monitoring Fidelity
-*(add image in results/)*
+![Energy Fidelity](results/energy_vs_fidelity.png)
 
 ### Battery Lifetime Comparison
-*(add image in results/)*
+![Battery Lifetime](results/battery_lifetime.png)
+
 
 
 
