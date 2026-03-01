@@ -105,4 +105,17 @@ The simulation models:
 
 
 ##  Project Structure
+SmartPulse-AI/
+│
+├── README.md
+├── requirements.txt
+├── main_simulation.py
+├── LICENSE
+├── .gitignore
+│
+├── results/
+│   ├── aoi_vs_fixed.png
+│   ├── aoi_vs_threshold.png
+│   ├── energy_vs_fidelity.png
+│   └── battery_lifetime.png
 
